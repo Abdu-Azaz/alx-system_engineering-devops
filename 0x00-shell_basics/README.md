@@ -1,5 +1,5 @@
 # Shell scripts
-## _The Last Markdown Editor, Ever_
+## _List of scripts_
 - Script 1: Writing a script that prints the absolute path name of the current working directory.
 - Script 2: Displaying the contents list of your current 
 - Script 3: Writing a script that changes the working directory to the user’s home directory.
